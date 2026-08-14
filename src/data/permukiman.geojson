@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Loea",
+        "jumlah_penduduk": 4483,
+        "jumlah_kk": 1485,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74525151436089,
+          -4.039634218815446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Lambuya",
+        "jumlah_penduduk": 6284,
+        "jumlah_kk": 1398,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.76531147011949,
+          -4.024246576351287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Pekarungan",
+        "jumlah_penduduk": 2653,
+        "jumlah_kk": 532,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8136605765261,
+          -4.0020464442519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Ueesi",
+        "jumlah_penduduk": 3612,
+        "jumlah_kk": 336,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.86736766530173,
+          -3.984612910974988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Lalolae",
+        "jumlah_penduduk": 6582,
+        "jumlah_kk": 1271,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.87708820995852,
+          -4.04805578252724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Waitaha",
+        "jumlah_penduduk": 1007,
+        "jumlah_kk": 742,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.79505585630284,
+          -3.9822054701492235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tinondo",
+        "jumlah_penduduk": 3390,
+        "jumlah_kk": 752,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.84336702464314,
+          -4.0491175914494955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Aere",
+        "jumlah_penduduk": 2786,
+        "jumlah_kk": 399,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44405349731446,
+          -3.490795478820801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mowewe",
+        "jumlah_penduduk": 1346,
+        "jumlah_kk": 540,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52379286050797,
+          -3.7285341715812685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Poli-Polia",
+        "jumlah_penduduk": 2394,
+        "jumlah_kk": 413,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47554720163346,
+          -3.6991295313835146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bangkala",
+        "jumlah_penduduk": 1737,
+        "jumlah_kk": 268,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60955214500427,
+          -3.7095869696140293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tirawuta",
+        "jumlah_penduduk": 902,
+        "jumlah_kk": 545,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35783636331558,
+          -3.5116939312219624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Aladadia",
+        "jumlah_penduduk": 1801,
+        "jumlah_kk": 317,
+        "is_dummy": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39397941589355,
+          -3.334567985534668
+        ]
+      }
+    }
+  ]
+}
